@@ -1,0 +1,40 @@
+<html>
+<body style="background-color:white;">
+<div style="padding-left:10px;margin-top:10px; ">
+<h1 style="font-size:36pt;"><i>Resume</i></h1>
+<div style="padding-left:150px;margin-top:5px; ">
+<h1 style="font-size:36pt;"><strong></strong><span style="color:green;">Tavish Gupta</span></strong></h1>
+</div>
+<pre>
+<h1 style="font-size:15pt;">Education:</h1>
+      B.Tech in CSE:              SRM IST, Chennai
+      12th Board:                 Partap World School,
+                                  Pathankot,Punjab.
+      10th Board                  Partap World School,
+                                  Pathankot,Punjab.                            
+<h1 style="font-size:15pt;">TECHNICAL EXPERIENCE:</h1>
+      Languages:                  C, C++, HTML, Python, CSS
+      
+<hr>
+<h1 style="font-size:15pt;">PERSONAL SKILLS:</h1>
+                                  1.Honesty<br>
+                                  2.Team Spirit<br>
+                                  3.Keen Learner
+<hr>  
+<h1 style="font-size:15pt;">LANGUAGES:</h1>
+                                  Hindi,Punjabi,English,French
+<hr>                   
+<h1 style="font-size:15pt;">INTEREST:</h1>
+                                  1.Internet browsing
+                                  2.Travelling
+                                  3.Playing badminton
+<hr>
+<h1 style="font-size:15pt;">Technical Interest:</h1>
+                                  1.Robotics
+                                  2.AI/ML
+                                  3.IOT
+                                  4.Ethical Hacking
+</pre>
+</div>
+</body>
+</html>
